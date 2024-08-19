@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "193322388789",
+    "project_id": "livescoreapp-assignment",
+    "storage_bucket": "livescoreapp-assignment.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:193322388789:android:51f6707ec7137232eed07c",
+        "android_client_info": {
+          "package_name": "com.example.livescoreap"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBkQxnujRDt9tJxX1I1WH7LnhAP6SZxULs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
